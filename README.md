@@ -23,3 +23,4 @@ For example: "Click 'YES' to cancel."
 ✔ Save Money on Crypters
 This dropper will protect your file from being scanned by Defender.
 Your crypts will last longer!
+Use ONLY for ethical purposes (pls).
